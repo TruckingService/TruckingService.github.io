@@ -1,5 +1,9 @@
 ## Welcome to Trucking Service & Repair Inc
-Trucking Service & Repair Inc in Sauk Village,IL.
+Trucking Service & Repair Inc in Sauk Village,IL.We provide customers with high quality work when it comes to their vehicles. Our auto, truck and trailer services include oil change, brakes, tires, transmission, body work, grease, inspection, and more! We also accept Premium 2000+ Commercial Truck Warranty, National Truck Protection, and Eaton Fuller Transmission repairs.
+
+Our dealer services include all types of vehicles which are posted on our site for sale. We offer Premium 2000+ Commercial Truck Warranty for purchase. Our most recent addition, Rent-A-Car, provides customers with the option of renting a vehicle while theirs is serviced, or when they would like to travel.
+
+Our experienced staff is eager to share their knowledge and enthusiasm with you. We encourage you to browse our online inventory, schedule an appointment and investigate rental options. You can also request more information about a vehicle using our online form or by calling 773-814-7244.
 
 <!---
 You can use the [editor on GitHub](https://github.com/TruckingService/TruckingService.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
