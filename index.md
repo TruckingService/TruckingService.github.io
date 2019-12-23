@@ -1,5 +1,5 @@
 ## Welcome to Trucking Service & Repair Inc
-Trucking Service & Repair Inc in Sauk Village,IL.We provide customers with high quality work when it comes to their vehicles. Our auto, truck and trailer services include oil change, brakes, tires, transmission, body work, grease, inspection, and more! 
+Trucking Service & Repair Inc is located in Sauk Village,IL. We provide customers with high quality work when it comes to their vehicles. Our truck and trailer services include oil change, brakes, tires, transmission, body work, grease, inspection, and more! 
 
 Our experienced staff is eager to share their knowledge and enthusiasm with you. We encourage you to schedule an appointment. You can also request more information about a vehicle using our online form or by calling 773-814-7244.
 
